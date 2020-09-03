@@ -7,7 +7,7 @@
 //enter deh...wkwk
 var message = ""; //pesan yang akan di kirim
 var interval = 1  ; // detiknya brapaan
-var count = 10 ; //jumlah pesan yang akan di kirim
+var count = 1000 ; //jumlah pesan yang akan di kirim
 var notifyInterval = 5 ; //notify 
 var i = 0 ;
 var timer = setInterval(function(){
